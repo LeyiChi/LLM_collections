@@ -1,0 +1,4 @@
+DISCO（论文：DISCO: Distilling Counterfactuals with Large Language Models）引入了一种基于 LLM 的全自动反事实知识蒸馏方法。它通过工程化的提示使用 LLM 生成短语扰动，然后通过特定于任务的教师模型过滤这些扰动，以提取高质量的反事实数据。
+
+来源：洛桑联邦理工学院自然语言处理实验室、艾伦人工智能研究所
+GitHub：https://github.com/eric11eca/disco
